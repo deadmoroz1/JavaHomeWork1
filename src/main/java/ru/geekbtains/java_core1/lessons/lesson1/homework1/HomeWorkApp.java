@@ -1,5 +1,6 @@
 package ru.geekbtains.java_core1.lessons.lesson1.homework1;
-
+//javahomework1
+// пытаюсь разобраться с пушем
 public class HomeWorkApp {
     public static void main(String[] args) {
         printThreeWords();
