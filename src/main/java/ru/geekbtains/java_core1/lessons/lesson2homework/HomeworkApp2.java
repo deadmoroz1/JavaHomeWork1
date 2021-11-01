@@ -8,7 +8,7 @@ public class HomeworkApp2 {
         String s = "Hello there!";
         int n = 4;
         printString(s, n);
-        // checkLeapYear(int y = 100); не разобрался с false
+        // checkLeapYear(int y = 100); не разобрался с false boolean, ошибка в else
 
     }
 
